@@ -13,7 +13,7 @@ To run **transformation guided by points**, run:
 
 ## Results
 ### 1.Basic transformation
-[<video width="300" height="200" controls loop>
+[<video width="300" height="200" controls>
     <source src="./assets/basic_transform.mp4" type="video/mp4">
 </video>](https://github.com/user-attachments/assets/18d24f5f-e7d0-4cdc-9136-4214e357ab66)
 
