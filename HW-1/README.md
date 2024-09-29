@@ -18,8 +18,10 @@ To run **transformation guided by points**, run:
 </video>](https://github.com/user-attachments/assets/18d24f5f-e7d0-4cdc-9136-4214e357ab66)
 
 ### 2.transformation guided by points
-![姜饼人](/assets/control_1.jpg "Control Points")
-
+<figure>
+<img src="./assets/control_1.jpg" width=300/>
+<img src="./assets/out_1.jpg" width=300/>
+</figure>
 
 ## References
 [Image Deformation Using Moving Least Squares](https://people.engr.tamu.edu/schaefer/research/mls.pdf)
