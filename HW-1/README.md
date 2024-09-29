@@ -23,5 +23,15 @@ To run **transformation guided by points**, run:
 <img src="./assets/out_1.jpg" width="300">
 </figure>
 
+<figure class = "half">
+<img src="./assets/control_2.jpg" width="300">
+<img src="./assets/out_2.jpg" width="300">
+</figure>
+
+<figure class = "half">
+<img src="./assets/control_3.jpg" width="300">
+<img src="./assets/out_3.jpg" width="300">
+</figure>
+
 ## References
 [Image Deformation Using Moving Least Squares](https://people.engr.tamu.edu/schaefer/research/mls.pdf)
