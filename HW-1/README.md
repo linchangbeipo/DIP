@@ -18,7 +18,7 @@ To run **transformation guided by points**, run:
 </video>](https://github.com/user-attachments/assets/18d24f5f-e7d0-4cdc-9136-4214e357ab66)
 
 ### 2.transformation guided by points
-关于算法的具体原理可以阅读**实验报告**进行了解，下面是采取相似变换方法获得的结果。
+关于算法的具体原理可以阅读[**实验报告**](./实验报告.pdf)进行了解，下面是采取相似变换方法获得的结果。
 <figure class = "half">
 <img src="./assets/control_1.jpg" width="300">
 <img src="./assets/out_1.jpg" width="300">
