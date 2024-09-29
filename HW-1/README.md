@@ -13,8 +13,8 @@ To run **transformation guided by points**, run:
 
 ## Results
 ### 1.Basic transformation
-<video width="320" height="240" controls>
-    <source src="assets/basic_transform.mp4" type="video/mp4">
+<video width="320" height="240" controls loop>
+    <source src="./assets/basic_transform.mp4" type="video/mp4">
 </video>
 
 ### 2.transformation guided by points
