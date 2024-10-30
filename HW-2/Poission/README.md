@@ -6,8 +6,6 @@ To install requirements:
 
 Then click [Pytorch](https://pytorch.org), install pytorch-cuda=12.1
 
-## Training
-
 ## Results
 
 ## Reference
