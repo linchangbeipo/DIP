@@ -1,3 +1,3 @@
 python==3.9
 numpy==1.23.6
-gradio==
+gradio==3.36.1
