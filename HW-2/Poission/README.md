@@ -4,8 +4,6 @@
 
 ## Training
 
-## Method
-
 ## Results
 
 ## Reference
