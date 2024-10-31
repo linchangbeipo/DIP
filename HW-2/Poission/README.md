@@ -26,4 +26,11 @@ Then click [Pytorch](https://pytorch.org), install pytorch-cuda=12.1
 <img src="./assets/meng_poly_src.png" width="300"><img src="./assets/meng_blend.png" width="300">
 </figure>
 
-## Reference
+### 3.鲨鱼+海滩：
+<figure class = "half">
+<img src="./assets/people_src.jpg" width="300"><img src="./assets/people_tar.jpg" width="300">
+</figure>
+
+<figure class = "half">
+<img src="./assets/people_poly.png" width="300"><img src="./assets/people_blend.png" width="300">
+</figure>
