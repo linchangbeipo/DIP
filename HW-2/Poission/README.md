@@ -19,7 +19,7 @@ Then click [Pytorch](https://pytorch.org), install pytorch-cuda=12.1
 
 ### 2.蒙娜丽莎：
 <figure class = "half">
-<img src="./assets/meng_src.png" width="300"><img src="./assets/meng_tar.jpg" width="300">
+<img src="./assets/meng_src.png" width="300"><img src="./assets/meng_tar.png" width="300">
 </figure>
 
 <figure class = "half">
