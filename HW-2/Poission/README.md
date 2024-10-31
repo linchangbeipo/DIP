@@ -17,4 +17,13 @@ Then click [Pytorch](https://pytorch.org), install pytorch-cuda=12.1
 <img src="./assets/sea_poly.png" width="600"><img src="./assets/sea_blend.png" width="600">
 </figure>
 
+### 2.蒙娜丽莎：
+<figure class = "half">
+<img src="./assets/meng_src.png" width="300"><img src="./assets/meng_tar.jpg" width="300">
+</figure>
+
+<figure class = "half">
+<img src="./assets/meng_poly_src.png" width="300"><img src="./assets/meng_blend.png" width="300">
+</figure>
+
 ## Reference
