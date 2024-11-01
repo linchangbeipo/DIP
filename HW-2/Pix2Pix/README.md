@@ -14,3 +14,12 @@ To train the model:
 `python train.py`
 
 ## Results
+在训练了250个轮次后，损失值达到了0.125，预测图像如下：
+
+<figure class = "half">
+<img src="./assets/result_1.png" width="900">
+</figure>
+
+<figure class = "half">
+<img src="./assets/result_2.png" width="900">
+</figure>
