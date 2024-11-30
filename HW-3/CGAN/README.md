@@ -41,3 +41,7 @@ To train the model:
 <figure class = "half">
 <img src="./assets/res_im2.png" width="900">
 </figure>
+
+## Discussion
+
+从结果上看，CGAN的作用主要体现在高频信息的学习预测上，低频信息主要还是依靠L1范数损失获取。
