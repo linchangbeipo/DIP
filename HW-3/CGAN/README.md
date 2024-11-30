@@ -15,4 +15,4 @@ To train the model:
 
 ## Results
 
-### 1.采用U-net架构构建Generator，损失函数：L1范数，训练800轮次：
+1.采用U-net架构构建Generator，损失函数：L1范数，训练800轮次：
