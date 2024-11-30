@@ -23,3 +23,13 @@ To train the model:
 <figure class = "half">
 <img src="./assets/L1_im2.png" width="900">
 </figure>
+
+2.采用U-net架构构建Generator，损失函数：L1+CGAN，训练4500轮次：
+<figure class = "half">
+<img src="./assets/Unet_im1.png" width="900">
+</figure>
+
+<figure class = "half">
+<img src="./assets/Unet_im2.png" width="900">
+</figure>
+
