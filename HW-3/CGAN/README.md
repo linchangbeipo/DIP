@@ -26,10 +26,18 @@ To train the model:
 
 2.采用U-net架构构建Generator，损失函数：L1+CGAN，训练4500轮次：
 <figure class = "half">
-<img src="./assets/Unet_im1.png" width="900">
+<img src="./assets/UNet_im1.png" width="900">
 </figure>
 
 <figure class = "half">
 <img src="./assets/Unet_im2.png" width="900">
 </figure>
 
+3.采用残差块构建Generator，损失函数：L1+CGAN，训练900轮次：
+<figure class = "half">
+<img src="./assets/res_im1.png" width="900">
+</figure>
+
+<figure class = "half">
+<img src="./assets/res_im2.png" width="900">
+</figure>
