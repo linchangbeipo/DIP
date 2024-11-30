@@ -16,3 +16,10 @@ To train the model:
 ## Results
 
 1.采用U-net架构构建Generator，损失函数：L1范数，训练800轮次：
+<figure class = "half">
+<img src="./assets/L1_im1.png" width="900">
+</figure>
+
+<figure class = "half">
+<img src="./assets/L1_im2.png" width="900">
+</figure>
