@@ -19,3 +19,27 @@
 download face_drag.py in the DragGAN  
 `conda activate stylegan3`  
 `python face_drag.py`
+
+## Results
+
+原始人像
+<figure class = "half">
+<img src="./assets/image.png" width="900">
+</figure>
+
+瘦脸：
+<figure class = "half">
+<img src="./assets/slim.png" width="900">
+</figure>
+
+微笑：
+<figure class = "half">
+<img src="./assets/smile.png" width="900">
+</figure>
+
+大眼：
+<figure class = "half">
+<img src="./assets/big_eyes.png" width="900">
+</figure>
+
+
