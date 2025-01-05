@@ -22,4 +22,6 @@
 
 ## Results
 
-![Chair_result](https://github.com/linchangbeipo/DIP/blob/main/HW-4/data/chair/debug_rendering_chair.gif)
+![Chair_result](https://github.com/linchangbeipo/DIP/blob/main/HW-4/data/chair/debug_rendering_chair.gif)  
+
+![Chair_result](https://github.com/linchangbeipo/DIP/blob/main/HW-4/data/chair/debug_rendering_lego.gif)
