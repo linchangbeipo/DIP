@@ -21,3 +21,7 @@
 `python train.py --colmap_dir data/**** --checkpoint_dir data/****/checkpoints`  
 
 ## Results
+
+[<video width="300" height="200" controls>
+    <source src="./data/chair/chair.mp4" type="video/mp4">
+</video>]
