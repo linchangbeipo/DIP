@@ -22,6 +22,4 @@
 
 ## Results
 
-[<video width="300" height="200" controls>
-    <source src="./data/chair/debug_rendering_chair.mp4" type="video/mp4">
-</video>]
+![Chair_result](https://github.com/linchangbeipo/DIP/blob/main/HW-4/data/chair/debug_rendering_chair.gif)
