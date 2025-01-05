@@ -8,3 +8,13 @@
 然后安装pytorch3d库：  
 `conda install -c fvcore -c iopath -c conda-forge fvcore iopath`  
 `conda install pytorch3d -c pytorch3d`  
+
+## Datasets
+
+稀疏点云获取：  
+`python mvs_with_colmap.py --data_dir data/chair`  
+`python debug_mvs_by_projecting_pts.py --data_dir data/chair`  
+
+## Train
+
+`python train.py --colmap_dir data/**** --checkpoint_dir data/****/checkpoints`  
