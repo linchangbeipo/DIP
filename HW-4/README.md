@@ -17,4 +17,7 @@
 
 ## Train
 
+模型训练：  
 `python train.py --colmap_dir data/**** --checkpoint_dir data/****/checkpoints`  
+
+## Results
